@@ -1,5 +1,5 @@
 export const PORT=6000
-export const DATABASE="mongodb+srv://MdRohan:console(~~!!)@cluster0.r4f3e.mongodb.net/ExamStudent?retryWrites=true&w=majority&appName=Cluster0"
+export const DATABASE=""
 export const JWT_KEY='ABC'
 export const JWT_EXPIRE_TIME=30*24*60*60*1000
 
